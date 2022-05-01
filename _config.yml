@@ -9,7 +9,7 @@ plugins:
 #-------------------------------
 # General Site Settings
 title: Keld Jorgensen
-description: "Hi I'm Keld, and I'm a Data Scientist.  My portfolio focuses on interesting projects I've recently undertaken, with a strong emphasis on business impact. Please visit my Github & LinkedIn pages (or download my Resume) by using the links below!"
+description: "En data-dreven Data Scientist med store analytiske og kvalitative erfaringer og i besiddelse af en Cand.Scient i Matematik og datalogi. Jeg finder det spændende at være med til at gøre en forretning mere datadreven ved hjælp af at kombinere data og forretningsgange. Jeg har store programmeringserfaringer og er i stand til at nørde med komplekse prædiktive modeller og jonglere rundt med machine-learning algoritmer, og er samtidig i stand til at kommunikere disse ud til resten af virksomheden i et let og forståeligt sprog. "
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
