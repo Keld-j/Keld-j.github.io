@@ -9,21 +9,21 @@ plugins:
 #-------------------------------
 # General Site Settings
 title: Keld Jorgensen
-description: "Test"
+description: "Hi I'm Keld, and I'm a Data Scientist.  My portfolio focuses on interesting projects I've recently undertaken, with a strong emphasis on business impact. Please visit my Github & LinkedIn pages (or download my Resume) by using the links below!"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
 #-------------------------------
 # About Section
 subtitle: Data Science <span style="color:#f58506"> Portfolio </span>
-location: "Aalborg, Danmark"
-resume_url: /docs/blah.docx
-avatar_image: /img/keldtst.JPG
+location: "London, UK"
+resume_url: /docs/resume.docx
+avatar_image: /img/profile_picture.JPG
 
 #-------------------------------
 # Contact links
-linkedln: "https://www.linkedin.com/in/keldjorgensen/"  Add your linkedln handle
-github: "https://github.com/Keld-j"  # Add your github handle
+linkedln: "https://linkedln.com/#" # Add your linkedln handle
+github: "https://github.com/#"  # Add your github handle
 
 paginate: 6
 paginate_path: "/page/:num"
@@ -51,4 +51,3 @@ defaults:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
-
